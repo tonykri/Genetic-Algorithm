@@ -1,0 +1,15 @@
+/home/tony/Desktop/genetic_algo/bin/Debug/net6.0/genetic_algo
+/home/tony/Desktop/genetic_algo/bin/Debug/net6.0/genetic_algo.deps.json
+/home/tony/Desktop/genetic_algo/bin/Debug/net6.0/genetic_algo.runtimeconfig.json
+/home/tony/Desktop/genetic_algo/bin/Debug/net6.0/genetic_algo.dll
+/home/tony/Desktop/genetic_algo/bin/Debug/net6.0/ref/genetic_algo.dll
+/home/tony/Desktop/genetic_algo/bin/Debug/net6.0/genetic_algo.pdb
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.csproj.AssemblyReference.cache
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.AssemblyInfoInputs.cache
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.AssemblyInfo.cs
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.csproj.CoreCompileInputs.cache
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.dll
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/ref/genetic_algo.dll
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.pdb
+/home/tony/Desktop/genetic_algo/obj/Debug/net6.0/genetic_algo.genruntimeconfig.cache
